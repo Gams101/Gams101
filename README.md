@@ -20,7 +20,7 @@ Check out my new developer portfolio website here: [ghbasallo.netlify.app](https
 - Jest
 - React Testing Library
 - PHPUnit
-- Pest
+- Pest PHP
 
 <!--
 **Gams101/Gams101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
