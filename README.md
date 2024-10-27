@@ -2,7 +2,7 @@
 
 I am a full stack software engineer that is particulary interested in front-end development
 
-Check out my new developer portfolio website here: [ghbasallo.netlify.app](https://ghbasallo.netlify.app)
+Check out my developer portfolio website here: [ghbasallo.netlify.app](https://ghbasallo.netlify.app)
 
 ## 💻 Here are some technologies I have experience with:
 - Typescript
